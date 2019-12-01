@@ -1,0 +1,15 @@
+server: lobby
+#Server Types: lobby, faction, ffa, skyblock, opskyblock
+
+# This is a OP password for exterme security.
+op:
+  pass: climpylibrary
+
+tnt:
+  enable: false
+  solid-block: true
+  x: 2.5
+  y: 3.5
+  z: 2.5
+  deny-worlds:
+    - enteraworldname

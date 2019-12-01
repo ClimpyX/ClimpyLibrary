@@ -1,0 +1,85 @@
+name: ClimpyLibrary
+version: 1.2.2
+author: ClimpyX
+main: com.climpy.ClimpyLibrary
+description: Neredeyse her seye sahip bir eklenti.
+depend: [cProfile]
+commands:
+  broadcast:
+    aliases:
+      - bc
+      - duyuru
+      - annouence
+  clearchat:
+    aliases:
+      - cc
+      - sohbetsil
+  fly:
+    aliases:
+      - uc
+  gamemode:
+    aliases:
+      - oyunmodu
+      - om
+      - gm
+  ping:
+  day:
+    aliases:
+      - gunduz
+  night:
+    aliases:
+      - gece
+  world:
+    aliases:
+      - dunya
+  op:
+  deop:
+  opsifre:
+  teleport:
+    aliases:
+      - tp
+      - isinlan
+  teleportall:
+    aliases:
+      - herkesiisinla
+      - herkesetp
+      - tpall
+  tphere:
+    aliases:
+      - burayaisinla
+  tppos:
+    aliases:
+      - tpkordinat
+  vanish:
+    aliases:
+      - gorunmezlik
+  setslot:
+    aliases:
+      - setslots
+      - changeslot
+  invsee:
+    aliases:
+      - envanter
+      - envgor
+  kill:
+    aliases:
+      - oldur
+  heal:
+    aliases:
+      - canlan
+      - canlandir
+  freeze:
+    aliases:
+      - dondur
+  inspect:
+  staff:
+    aliases:
+      - personel
+  list:
+    aliases:
+      - online
+      - playerlist
+  server:
+
+  hub:
+
